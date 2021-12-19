@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**taikkyithar/taikkyithar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +9,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+<p align="center">
+  <a href="https://open.spotify.com/user/cdf2r8sqqpf2ftwcqrnem8j0r" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+<p align="center">
