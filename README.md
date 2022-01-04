@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+{
+  "devMode": "false",
+  "advancedMode": "false",
+  "language": "en-US",
+  "repository": [
+    "https://github.com/taikkyithar/profile-view"
+  ]
+}
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
