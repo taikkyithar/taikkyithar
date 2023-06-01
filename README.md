@@ -13,7 +13,7 @@
 
 <p align="center">
   
-  <a href="https://twitter.com/404death"><img src="https://img.shields.io/twitter/follow/taikkyi_thar?style=for-the-badge&logo=twitter&logoColor=ffffff&labelColor=1a1a1a&color=802000"></a>
+  <a href="https://twitter.com/taikkyithar"><img src="https://img.shields.io/twitter/follow/taikkyi_thar?style=for-the-badge&logo=twitter&logoColor=ffffff&labelColor=1a1a1a&color=802000"></a>
   
   <a href="https://open.spotify.com/user/cdf2r8sqqpf2ftwcqrnem8j0r" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
