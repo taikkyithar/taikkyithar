@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo17856
-Fork on GitHub5246
+
 <h1 align="center">Hi 👋, I'm Taikkyi Thar</h1>
 <h3 align="center">A passionate frontend developer from Myanmar.</h3>
 
