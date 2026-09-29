@@ -1,99 +1,87 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Thet Htoo San</h1>
-<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
+<h1 align="left" id="taikkyithar-title">:wave: Hello there! I'm Thet Htoo San</h1>
+<h3 align="left">IT Administrator — Linux & Windows systems, cloud servers, and end-user support</h3>
 
 <p align="left">
-  <a href="https://github.com/MacroPower/MacroPower"><img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" /></a>
-  <a href="https://jacobcolvin.com"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com"></a>
-  <a href="https://stackoverflow.com/users/4868262"><img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow"></a>
-  <a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZeubjnoztTC_RP_c4YOuYw?style=flat&logo=youtube"></a>
-  <a href="https://github.com/MacroPower?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?style=flat&logo=github"></a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"><img alt="Awesome" src="https://awesome.re/mentioned-badge.svg"></a>
+  <a href="https://github.com/taikkyithar/taikkyithar"><img src="https://komarev.com/ghpvc/?username=taikkyithar" alt="page views" /></a>
+  <a href="https://github.com/taikkyithar?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/taikkyithar?style=flat&logo=github"></a>
+  <a href="mailto:thethtoosan.2015@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-thethtoosan.2015%40gmail.com-blue?style=flat&logo=gmail&logoColor=white"></a>
+  <img alt="Location" src="https://img.shields.io/badge/location-Myanmar-informational?style=flat&logo=googlemaps&logoColor=white">
 </p>
 
-<a href="#macropower-title"><img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" /></a>
+<a href="#taikkyithar-title"><img src="https://github-readme-stats.vercel.app/api?username=taikkyithar&show_icons=true&hide_border=true&bg_color=00000000&icon_color=0969da" alt="taikkyithar" align="right" /></a>
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently working on my **[homelab]**
-- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
-- :book: &nbsp;Learn more about my projects on my **[blog]**
+- :office: &nbsp;I'm currently working at **[7thComputing]** as an IT Support Specialist
+- :cloud: &nbsp;I look after servers on **AWS**, **Alibaba Cloud** and **DigitalOcean**
+- :gear: &nbsp;Day to day I support **Odoo ERP**, **POS systems**, and **Windows/Linux** servers
+- :mortar_board: &nbsp;I've taught **Linux** and **web application security** at **Pentest Villa Training Center**
+- :speech_balloon: &nbsp;I like to talk about **sysadmin work**, **backups that actually restore**, and **security**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="taikkyithar-tech">Favorite Tech</h2>
 
-> Tools, languages, and other things that I like to work with.
+> Tools, platforms, and other things that I like to work with.
 
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/go-original.svg" width="48" height="48" alt="Golang" /></a>
-      <br>Go
+      <a href="#taikkyithar-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /></a>
+      <br>Linux
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/kcl-icon-color.svg" width="48" height="48" alt="KCL" /></a>
-      <br>KCL
+      <a href="#taikkyithar-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="Ubuntu" /></a>
+      <br>Ubuntu
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" /></a>
-      <br>TypeScript
+      <a href="#taikkyithar-tech"><img src="./img/redhat-original.svg" width="48" height="48" alt="CentOS / RHEL" /></a>
+      <br>CentOS
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" /></a>
-      <br>Kubernetes
+      <a href="#taikkyithar-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="48" height="48" alt="Windows Server" /></a>
+      <br>Windows
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/dagger.svg" width="48" height="48" alt="Dagger" /></a>
-      <br>Dagger
+      <a href="#taikkyithar-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS" /></a>
+      <br>AWS
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/nixos-original.svg" width="48" height="48" alt="Nix" /></a>
-      <br>Nix
+      <a href="#taikkyithar-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" width="48" height="48" alt="DigitalOcean" /></a>
+      <br>DO
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/tmux.svg" width="48" height="48" alt="Tmux" /></a>
-      <br>tmux
+      <a href="#taikkyithar-tech"><img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" /></a>
+      <br>MySQL
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/neovim-original.svg" width="48" height="48" alt="Neovim" /></a>
-      <br>nvim
+      <a href="#taikkyithar-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" /></a>
+      <br>Bash
     </td>
   </tr>
 </table>
 
-<h2 align="left">Coding Activity</h2>
+<h2 align="left">What I Work On</h2>
 
-> Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
+> A quick map of where my time goes.
 
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
+| Area | What that looks like |
+| --- | --- |
+| **Server administration** | Ubuntu and CentOS servers, Windows Server 2008 / 2016 / 2019, monitoring and patching |
+| **Cloud** | Provisioning and maintaining instances on AWS, Alibaba Cloud and DigitalOcean |
+| **Odoo ERP** | Customer support, issue triage, configuration and user guidance |
+| **POS systems** | Installation, maintenance and fault resolution in the field |
+| **Backup & recovery** | Scheduled backups across sites, and verifying that the restores work |
+| **Endpoint security** | Antivirus and endpoint management, user account administration |
+| **Teaching** | Linux fundamentals, Kali Linux tooling and web application security labs |
 
-```
-  2204.6 hr  ┤╭────────────────────────────────────────────────────────────────────────────────────────────────── 
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.4 hr  ┤│                                                                                                   
-  2204.4 hr  ┼╯                                                                                                   
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
+<h2 align="left">A Bit More</h2>
 
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
+- :hammer_and_wrench: &nbsp;Ten-plus years of hands-on work, starting as a service technician repairing hardware in Mandalay
+- :mag: &nbsp;Analytical by instinct, methodical in practice — I diagnose from evidence and document what I change
+- :books: &nbsp;Geology, Dagon University · International Diploma in Computer Studies, KMD
+- :globe_with_meridians: &nbsp;Myanmar (native) · English (working proficiency)
 
 <!-- links -->
 
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
-[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
-[blog]: https://jacobcolvin.com/posts/ "My Blog"
+[7thComputing]: https://7thcomputing.com "7thComputing"
+[issues page]: https://github.com/taikkyithar/taikkyithar/issues "taikkyithar/issues"
